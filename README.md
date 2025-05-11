@@ -1,10 +1,13 @@
 ECommerce-MySQL-EDA-Project 📊💻
+
 Project Overview 🔍
+
 This project demonstrates Exploratory Data Analysis (EDA) on a real-world eCommerce dataset using MySQL Workbench. The goal is to transform raw data into meaningful insights that can drive business strategies in areas such as product performance, sales forecasting, and customer behavior.
 
 Key highlights include in-depth analysis of sales trends, product ratings, and inventory performance. The project showcases a comprehensive understanding of data cleaning, database management, and SQL-based analytics.
 
 Key Features ✨
+
 Data Cleaning & Transformation: Efficiently cleans raw eCommerce data, handles missing values, removes duplicates, and ensures consistency for deeper analysis.
 
 Actionable Insights: Generates key business insights, such as best-selling products, top-rated categories, and stock analysis, helping businesses make data-driven decisions.
@@ -14,6 +17,7 @@ Automated Updates: Implements MySQL triggers to automatically update the dataset
 Comprehensive Analysis: Covers multiple aspects of the dataset, from sales trends to stock quantities and product reviews, providing a holistic view of the business performance.
 
 Key Analysis Areas 🔑
+
 Product Performance: Identifies top-performing products based on sales and ratings to highlight opportunities for optimization.
 
 Sales Trends: Analyzes sales patterns over time, uncovering seasonal fluctuations and year-over-year growth.
